@@ -5,7 +5,7 @@
                 <img src="<?php echo get_template_directory_uri() ?>/img/logo.png" alt="ロゴ">
             </a>
         </div>
-        <p class="l-footer_copyright"><span lang="en">© </span>Web Entertainment Design Inc.</p>
+        <p class="l-footer_copyright"><span lang="en">© </span>Clover Judicial Scrivener’s office</p>
     </div><!-- /.l-inner_width -->
 </footer><!-- /.l-footer -->
 
